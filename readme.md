@@ -14,9 +14,7 @@ corresponding to the sfm results.
 This code is tested under windows 8.1 with matlab 2014a environment. The code contains a windows binary located in 'bin/mace'. 
 This binary is used for finding maxmum clique. Non-windows users will need to complie the binary. See 'bin/readme.txt'.
 
-%%%%%%%%%%
 How to use
-%%%%%%%%%%
 1. download this package.
 2. You will need to download vlfeat toolbox used for feature extraction and matching. Go to http://www.vlfeat.org/ and get the lastest version
 3. Uncompress vlfeat.
