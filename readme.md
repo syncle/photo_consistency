@@ -1,9 +1,14 @@
 # Photo Consistency
 
 This is the source code used for the following paper
-Efficient and Robust Color Consistency for Community Photo Collections
-Jaesik Park, Yu-Wing Tai, Sudipta N. Sinha, and In So Kweon,
-IEEE International Conference on Computer Vision and Pattern Recognition (CVPR), 2016
+```
+@inproceedings{Park2016,
+    author    = {Jaesik Park, Yu-Wing Tai, Sudipta N. Sinha, and In So Kweon},
+    title     = {Efficient and Robust Color Consistency for Community Photo Collections},
+    booktitle = {IEEE International Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2016},
+}
+```
 
 ## Disclaimer
 
