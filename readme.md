@@ -1,4 +1,6 @@
-# Photo Consistency
+# Efficient and Robust Color Consistency for Community Photo Collections
+
+![thumbnail](thumbnail.png)
 
 This is the source code used for the following paper
 ```
