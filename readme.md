@@ -15,12 +15,13 @@ This is the source code used for the following paper
 ## Disclaimer
 
 Note: This code is academic purpose only. Some part of code is not matured and has many experimental trials.
-If you encounter any weird problems or bugs, please let me know.
-2016.03 written by Jaesik Park (www.jaesik.info)
-
-This code is for demonstrating photo consistency on the human photo collections.
+This code demonstrates photo consistency on the human photo collections.
 In order to handle SfM dataset, you'll need to substitute the observation matrix
 corresponding to the SfM results.
+
+If you encounter any weird problems, please let me know.
+This code is written by Jaesik Park (www.jaesik.info) while he were at KAIST.
+
 
 ## Compiling
 
