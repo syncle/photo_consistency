@@ -1,4 +1,4 @@
-# Efficient and Robust Color Consistency for Community Photo Collections
+# Color Consistency for Community Photo Collections
 
 ![thumbnail](thumbnail.png)
 
